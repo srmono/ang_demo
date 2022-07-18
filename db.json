@@ -17,6 +17,18 @@
       "text": "Angular",
       "day": "July 13th at 11:30am",
       "reminder": false
+    },
+    {
+      "text": "New Task",
+      "day": "Sep 15th 3:50pm",
+      "reminder": true,
+      "id": 5
+    },
+    {
+      "text": "Another Task",
+      "day": "Sep 15th 4:30 pm",
+      "reminder": false,
+      "id": 6
     }
   ],
   "products": []
